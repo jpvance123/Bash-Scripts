@@ -1,2 +1,2 @@
 # Bash-Scripts
-Scripts for linux 
+Synchronize directories
